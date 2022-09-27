@@ -11,6 +11,7 @@ function App() {
     console.log("clic");
     setNumClics(numclics + 1);
   };
+  //ok
 
   const reiniciarContador = () => {
     console.log("reiniciar");
